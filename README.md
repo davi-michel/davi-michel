@@ -13,4 +13,4 @@ Estudando agora:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
 Redes Sociais:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/davi-michel)](https://github.com/davi-michel) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/davi-michel-97b832248/)](https://www.linkedin.com/in/davi-michel-97b832248/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/davi-michel)](https://github.com/davi-michel) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-michel-97b832248/)]( https://www.linkedin.com/in/davi-michel-97b832248/)
